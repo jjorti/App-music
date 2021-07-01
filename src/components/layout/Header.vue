@@ -7,7 +7,7 @@
     >
       <div class="navbar-brand">
         <div class="navbar-item">
-          <strong>App Music</strong>
+          <strong>App Music Por : Juan Jose Ortiz</strong>
         </div>
 
         <a
